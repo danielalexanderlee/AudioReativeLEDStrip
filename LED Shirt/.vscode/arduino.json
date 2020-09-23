@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega168",
+    "sketch": "code\\code.ino",
+    "port": "COM14",
+    "programmer": "AVR ISP"
+}
